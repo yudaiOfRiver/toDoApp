@@ -5,7 +5,6 @@ export const Title = () => {
     <div>
         <header>
             <h1>Kawanon's TodoList</h1>
-            <div>hello</div>
         </header>
     </div>
   )
